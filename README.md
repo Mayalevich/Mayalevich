@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **asakura.h.madoka@gmail.com**
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mayalevich&theme=date-night)](https://git.io/streak-stats)
+
 <h3 align="left">Learning:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
