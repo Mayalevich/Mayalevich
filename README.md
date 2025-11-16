@@ -24,11 +24,11 @@
 
 ### GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mayalevich&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayalevich&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
