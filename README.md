@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @Mayalevich</h1>
+<h1 align="center">Hi 👋, I'm Shunyu Yu</h1>
 
 - 🔭 I’m currently **still learning the basics of programming extensively and trying to become proficient in Python**
 
