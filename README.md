@@ -1,6 +1,6 @@
 <!-- Hero -->
 <h1 align="center">Shunyu Yu</h1>
-<h3 align="center">Delirium-focused embedded & ML explorer · University of Waterloo</h3>
+<h3 align="center">Electrical Engineering @ University of Waterloo</h3>
 
 <p align="center">
   <a href="mailto:s362yu@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-s362yu%40uwaterloo.ca-critical?style=flat-square"></a>
