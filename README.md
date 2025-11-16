@@ -1,6 +1,3 @@
-Here’s a full, more polished `README.md` you can paste into your GitHub profile repo (`Mayalevich/Mayalevich`):
-
-```markdown
 <!-- Hero -->
 <h1 align="center">Shunyu (Sean) Yu</h1>
 <h3 align="center">Delirium-focused embedded & ML explorer · University of Waterloo</h3>
@@ -151,4 +148,3 @@ If you’re also figuring out embedded systems, firmware, or ML step by step and
 
 feel free to reach out at **s362yu@uwaterloo.ca** or connect on [LinkedIn](https://www.linkedin.com/in/shunyu-yu-231729320/).  
 I’m always happy to share notes, debug weird bugs, or brainstorm project ideas.
-```
