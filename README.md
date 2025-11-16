@@ -31,6 +31,18 @@
 
 ---
 
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayalevich&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayalevich&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
 ### Tech Stack
 
 #### Embedded / Firmware
@@ -126,18 +138,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayalevich&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayalevich&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ### Let’s Learn Together
 
 If you’re also figuring out embedded systems, firmware, or ML step by step and want to pair on:
@@ -147,4 +147,3 @@ If you’re also figuring out embedded systems, firmware, or ML step by step and
 - Backend APIs for hardware data  
 
 feel free to reach out at **s362yu@uwaterloo.ca** or connect on [LinkedIn](https://www.linkedin.com/in/shunyu-yu-231729320/).  
-I’m always happy to share notes, debug weird bugs, or brainstorm project ideas.
