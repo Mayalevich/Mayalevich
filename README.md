@@ -17,7 +17,7 @@
 - 🔭 I’m currently **building DeliriGuard** – an end‑to‑end system for hospital‑induced delirium detection (embedded sensors, ESP32 firmware, FastAPI backend, web dashboard).
 - 📚 I’m still **deep in the fundamentals**: data structures, embedded C/C++, Python, and systems design.
 - 🤝 I’d love to **collaborate with people at a similar level** so we can ship real projects and learn together.
-- 🧠 Interests: **Embedded Systems**, **Machine Learning**, **Firmware Development**, and **Healthcare IoT**.
+- 🧠 Interests: **Embedded Systems**, **Machine Learning**, **Firmware Development**, and **IoT**.
 - 📫 Reach me at **s362yu@uwaterloo.ca**.
 
 ---
