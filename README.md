@@ -1,5 +1,5 @@
 <!-- Hero -->
-<h1 align="center">Shunyu (Sean) Yu</h1>
+<h1 align="center">Shunyu Yu</h1>
 <h3 align="center">Delirium-focused embedded & ML explorer · University of Waterloo</h3>
 
 <p align="center">
