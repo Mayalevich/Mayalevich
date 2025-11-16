@@ -24,9 +24,17 @@
 
 ### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayalevich&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayalevich&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mayalevich&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub stats"
+    height="165"
+/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mayalevich&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+    height="165"
+/>
 </p>
 
 ---
