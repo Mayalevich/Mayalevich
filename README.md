@@ -4,9 +4,9 @@
 
 - 👯 I’m looking to collaborate with **someone at my level so we can learn together!**
 
-- 🤝 I’m looking for help with **machine learning**
+- 🤝 I’m looking for help with **Embedded Systems**, **Machine Learning**, and **Firmware Developement**.
 
-- 📫 How to reach me **asakura.h.madoka@gmail.com**
+- 📫 How to reach me **s362yu@uwaterloo.ca**
 <h3 align="center">
 <a href="https://git.io/streak-stats" align="center"><img src="https://streak-stats.demolab.com?user=Mayalevich&theme=date-night&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 </h3>
