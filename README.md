@@ -22,15 +22,6 @@
 
 ---
 
-### Current Focus
-
-- Turning raw sensors + microcontrollers into **clinically useful metrics**.
-- Writing **reliable firmware** for low‑power devices (ESP32, Arduino).
-- Building **Python backends** with FastAPI, SQLAlchemy, and WebSockets.
-- Making technical dashboards that **clinicians can actually use**.
-
----
-
 ### GitHub Stats
 
 <p align="center">
