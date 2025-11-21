@@ -3,12 +3,18 @@
 <h3 align="center">Electrical Engineering @ University of Waterloo</h3>
 
 <p align="center">
-  <a href="mailto:s362yu@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-s362yu%40uwaterloo.ca-critical?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/shunyu-yu-231729320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mayalevich&style=flat-square&color=blue" alt="profile views"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayalevich&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&cache_seconds=1"
+    alt="Most Used Languages"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mayalevich&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+    height="165"
+  />
 </p>
+
 
 ---
 
