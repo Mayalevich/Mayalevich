@@ -33,7 +33,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayalevich&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&cache_seconds=1"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayalevich&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.25&count_weight=0.75&cache_seconds=1"
     alt="Most Used Languages"
     height="165"
   />
@@ -43,6 +43,7 @@
     height="165"
   />
 </p>
+
 
 
 
