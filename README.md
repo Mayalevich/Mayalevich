@@ -1,6 +1,15 @@
 <!-- Hero -->
 <h1 align="center">Shunyu Yu</h1>
 <h3 align="center">Electrical Engineering @ University of Waterloo</h3>
+
+<p align="center">
+  <a href="mailto:s362yu@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-s362yu%40uwaterloo.ca-critical?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/shunyu-yu-231729320/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mayalevich&style=flat-square&color=blue" alt="profile views"/>
+</p>
+
 ---
 
 ### About Me
@@ -17,18 +26,20 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayalevich&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.25&count_weight=0.75&cache_seconds=1"
+    src="https://github-readme-stats.vercel.app/api?username=mayalevich&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayalevich&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
     height="165"
+/>
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=mayalevich&theme=tokyonight&hide_border=true"
     alt="GitHub streak"
     height="165"
+/>
   />
 </p>
-
-
 
 
 ---
@@ -106,6 +117,16 @@
 - Designed for clinicians: clear alerts, exportable reports, and real‑time charts.
 
 ---
+
+### Let’s Learn Together
+
+If you’re also figuring out embedded systems, firmware, or ML step by step and want to pair on:
+
+- ESP32 / Arduino projects  
+- Python data pipelines or small ML experiments  
+- Backend APIs for hardware data  
+
+feel free to reach out at **s362yu@uwaterloo.ca** or connect on [LinkedIn](https://www.linkedin.com/in/shunyu-yu-231729320/).
 
 ### Let’s Learn Together
 
