@@ -26,18 +26,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mayalevich&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub stats"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayalevich&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
     height="165"
-/>
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=mayalevich&theme=tokyonight&hide_border=true"
     alt="GitHub streak"
     height="165"
-/>
   />
 </p>
 
@@ -117,21 +113,6 @@
 - Designed for clinicians: clear alerts, exportable reports, and real‑time charts.
 
 ---
-
-### Let’s Learn Together
-
-If you’re also figuring out embedded systems, firmware, or ML step by step and want to pair on:
-
-- ESP32 / Arduino projects  
-- Python data pipelines or small ML experiments  
-- Backend APIs for hardware data  
-
-feel free to reach out at **s362yu@uwaterloo.ca** or connect on [LinkedIn](https://www.linkedin.com/in/shunyu-yu-231729320/).
-
-### Let’s Learn Together
-
-If you’re also figuring out embedded systems, firmware, or ML step by step and want to pair on:
-
 - ESP32 / Arduino projects  
 - Python data pipelines or small ML experiments  
 - Backend APIs for hardware data  
