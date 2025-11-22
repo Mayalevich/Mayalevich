@@ -1,22 +1,6 @@
 <!-- Hero -->
 <h1 align="center">Shunyu Yu</h1>
 <h3 align="center">Electrical Engineering @ University of Waterloo</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayalevich&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.4&count_weight=0.6&cache_seconds=1"
-    alt="Most Used Languages"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mayalevich&theme=tokyonight&hide_border=true"
-    alt="GitHub streak"
-    height="165"
-  />
-</p>
-
-
-
 ---
 
 ### About Me
