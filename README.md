@@ -24,8 +24,18 @@
 
 ### GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayalevich&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.25&count_weight=0.75" alt="Most Used Languages" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayalevich&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" /> </p>
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayalevich&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.25&count_weight=0.75&hide=html,css,javascript,jupyter%20notebook&cache_seconds=86400"
+    alt="Most Used Languages"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=mayalevich&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="GitHub streak"
+    height="165"
+  />
+</p>
 
 
 
