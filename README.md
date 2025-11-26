@@ -110,6 +110,7 @@
 - Designed for clinicians: clear alerts, exportable reports, and real‑time charts.
 
 ---
+If you are also working on:
 - ESP32 / Arduino projects  
 - Python data pipelines or small ML experiments  
 - Backend APIs for hardware data  
