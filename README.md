@@ -27,21 +27,18 @@
 <p align="center">
 
   <img
-    src="https://github-readme-stats-personal-sepia.vercel.app/api/top-langs/?username=mayalevich&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.25&count_weight=0.75&cache_seconds=86400"
-    alt="Most Used Languages"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mayalevich&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.25&count_weight=0.75&cache_seconds=86400"
     height="165"
+    alt="Most Used Languages"
   />
 
   <img
     src="https://streak-stats.demolab.com?user=mayalevich&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="GitHub streak"
     height="165"
+    alt="GitHub streak"
   />
 
 </p>
-
-
-
 
 ---
 
