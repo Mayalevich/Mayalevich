@@ -26,7 +26,7 @@
 
 <p align="center">
 
-  <!-- Top Languages -->
+  <!-- Top Languages (Self-Hosted) -->
   <img
     src="https://github-readme-stats-personal-sepia.vercel.app/api/top-langs/?username=mayalevich&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.25&count_weight=0.75&cache_seconds=86400"
     alt="Most Used Languages"
@@ -41,6 +41,7 @@
   />
 
 </p>
+
 
 
 ---
