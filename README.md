@@ -26,12 +26,14 @@
 
 <p align="center">
 
+  <!-- Top Languages -->
   <img
     src="https://github-readme-stats-personal-sepia.vercel.app/api/top-langs/?username=mayalevich&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.25&count_weight=0.75&cache_seconds=86400"
     alt="Most Used Languages"
     height="165"
   />
 
+  <!-- GitHub Streak -->
   <img
     src="https://streak-stats.demolab.com?user=mayalevich&theme=tokyonight&hide_border=true&cache_seconds=86400"
     alt="GitHub streak"
@@ -39,6 +41,7 @@
   />
 
 </p>
+
 
 ---
 
